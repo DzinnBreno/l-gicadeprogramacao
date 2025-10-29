@@ -1,9 +1,4 @@
 programa {
-  funcao inicio() {
-    
-  }
-}
-programa {
     funcao inicio() {
         inteiro a, b, resto
         
